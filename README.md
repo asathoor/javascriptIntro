@@ -1,6 +1,7 @@
 # JavaScript Introduktion (2 lektioner)
 
-(To lektioner)
+[Understanding the Github Flow](https://guides.github.com/introduction/flow/)
+
 
 ## 12:30
 
