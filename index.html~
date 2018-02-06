@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript intro</title>
+<meta name="generator" content="Bluefish 2.2.9" >
+</head>
+<body>
+
+<article>
+	<h1>Overskrift</h1>
+	
+	<p>Noget indhold her ...</p>
+
+</article>
+
+<script src="js/myScript.js"></script>
+
+</body>
+</html>
