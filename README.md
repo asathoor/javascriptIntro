@@ -6,6 +6,9 @@
 
 * Introduktion til JavaScript
 * Krav til Github aflevering
+* Fork repo (a. Fork på Github, b. Clone kode via Github)
+* Init repo (Gitkraken: a. lokalt, b. på Github)
+* Github pages (Brug Github som webserver)
 * Basic JavaScript Instructions, Duckett ch. 2
 * Skitse til kode
 * Hvordan browseren ser en webside (DOM: Document Object Model)
