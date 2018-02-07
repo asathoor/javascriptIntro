@@ -16,6 +16,7 @@ var tekst = "Her er min tekst";
 // hvis ... så ... ellers (scratch: operators)
 // loop (gentag / repeat i scratch)
 // objekter
+// noget her
 
 /* se resultatet af din kode i browserens udviklings-værktøj */
 console.log( "Tallet er lige nu: " + tal );
