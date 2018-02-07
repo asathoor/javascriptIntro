@@ -2,19 +2,22 @@
  * JavaScript introduktion
  **/
 
-/* variable */
+// variabler
 var tal = 1;
 var erDetRigtigt = false;
 var tekst = "Her er min tekst";
 
 // kommentarer
-// regning
+// regning 
 // datoer
 // klistre strenge sammen
-// lister
+// lister (scratch: data)
+// hvis ... så ... (scratch: operators)
+// hvis ... så ... ellers (scratch: operators)
+// loop (gentag / repeat i scratch)
 // objekter
-// hvis ... så ... 
-// hvis ... så ... ellers
 
 /* se resultatet af din kode i browserens udviklings-værktøj */
 console.log( "Tallet er lige nu: " + tal );
+
+// næste gang: events.
