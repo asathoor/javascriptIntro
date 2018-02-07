@@ -3,14 +3,27 @@
  **/
 
 // variabler
-var tal = 1;
+var tal = 111;
+
+// booleans
 var erDetRigtigt = false;
-var tekst = "Her er min tekst";
+var erDetRigtigt = true;
+
+// en streng (noget tekst)
+var veritas = 'Julemanden "findes", og jorden er flad.';
+
+// klister (+)
+var and = "<h1> Mit navn er Anders. Anders And.</h1>";
+
+// datatyper
+var x = 0;
 
 // kommentarer
-// regning 
+// regning
+var ind = 2345;
+var ud = 9999;
+
 // datoer
-// klistre strenge sammen
 // lister (scratch: data)
 // hvis ... så ... (scratch: operators)
 // hvis ... så ... ellers (scratch: operators)
@@ -19,6 +32,8 @@ var tekst = "Her er min tekst";
 // noget her
 
 /* se resultatet af din kode i browserens udviklings-værktøj */
-console.log( "Tallet er lige nu: " + tal );
+console.log( "sum:" + (ind - ud) * 12);
+// skriv i browservinduet
+document.write( and ); 
 
 // næste gang: events.
