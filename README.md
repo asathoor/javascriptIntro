@@ -3,13 +3,19 @@
 [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 
 
-## 12:30
+## ca. 12:30 (aftales med formiddagsunderviseren!)
 
 * Introduktion til JavaScript
 * Krav til Github aflevering
-* Fork repo (a. Fork på Github, b. Clone kode via Github)
-* Init repo (Gitkraken: a. lokalt, b. på Github)
-* Github pages (Brug Github som webserver)
+
+### Github
+
+* Fork repo (a. Fork på Github, b. Clone kode via Github) - i dette tilfælde får du en kopi af min kode, som du kan arbejde videre med. 
+* Init repo (Gitkraken: a. lokalt, b. på Github) - i dette tilfælde har du nogen lokale filer, som du vil udvikle med Github som versionskontrol.
+* Github pages (Brug Github som webserver) - så længe din kode bruger JavaScript, HTML og CSS kan du se resultatet af din kode på web med Github som en slags server.
+
+### JavaScript introduktion
+
 * Basic JavaScript Instructions, Duckett ch. 2
 * Skitse til kode
 * Hvordan browseren ser en webside (DOM: Document Object Model)
@@ -19,7 +25,7 @@
 
 ## 13:00
 
-* Workshop: ... add class og animationer.
+* Workshop.
 
 ## 14:00 
 
@@ -27,13 +33,13 @@
 
 ## Aflevering på Github
 
-* Aflever koden på Github
+* Aflever koden på Github og del linket til din kode via Canvas.
 * Sørg for at aktivere dit site på Github, så man kan se det i en browser.
 
 
 ## Workshop (45 min.)
 
-Ved hjælp af JavaScript skal du lave en side, der fortæller om en butik har åbent eller ej. Brug fx Magasins åbningstider. Lav dit eget design; men brug Ducketts c01 add-content.html som udgangspunkt for din kode.
+Ved hjælp af JavaScript skal du lave en webside, der fortæller om en butik har åbent eller ej. Brug fx Magasins åbningstider. Lav dit eget design; men brug Ducketts c01 add-content.html som udgangspunkt for din kode.
 
 Din markup skal være semantisk, som i eksemplet fra HTML-brushup.
 
