@@ -15,6 +15,7 @@ var veritas = 'Julemanden "findes", og jorden er flad.';
 // klister (+)
 var and = "<h1> Mit navn er Anders. Anders And.</h1>";
 var gaas = "Madam Gaas";
+var uha = "De Nattergale";
 
 // datatyper
 var x = 0;
