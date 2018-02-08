@@ -1,5 +1,7 @@
 /**
  * JavaScript introduktion
+ * klasse: D2 
+ * dato: 2018.02.08
  **/
 
 // variabler
